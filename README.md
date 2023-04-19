@@ -1,2 +1,2 @@
 # Concepts and Results in Chaotic Dynamics
-[Pierre Collet, Jean-Pierre Eckmann] Concepts and Results in Chaotic Dynamics の研究室での輪読のノートです。
+"P. Collet and J. P. Eckmann, Concepts and Results in Chaotic Dynamics: A Short Course, Springer, 2006" の研究室での輪読のノートです。
