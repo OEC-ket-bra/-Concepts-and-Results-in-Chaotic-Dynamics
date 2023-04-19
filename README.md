@@ -1,2 +1,2 @@
 # Concepts and Results in Chaotic Dynamics
-研究室での輪読のノートです。
+[Pierre Collet, Jean-Pierre Eckmann] Concepts and Results in Chaotic Dynamics の研究室での輪読のノートです。
